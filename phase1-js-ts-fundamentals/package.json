@@ -1,0 +1,16 @@
+{
+  "name": "phase1-js-ts-fundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/06-modules/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
